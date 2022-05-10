@@ -1,0 +1,14 @@
+{
+  "name": "facade-server",
+  "version": "0.1.0",
+  "description": "",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "author": "Shashi Shekhar <shshekhar93@gmail.com>",
+  "license": "MIT",
+  "dependencies": {
+    "ws": "^8.6.0"
+  }
+}
